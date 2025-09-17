@@ -16,16 +16,29 @@ Database:[](https://www.kaggle.com/datasets/shivamb/netflix-shows)
 🧠 Analytical Questions Explored
 
 1)Count the Number of Movies vs TV Shows
+
 2)Find All Movies/TV Shows by Director 'Robert Luketic'
+
 3)List All Movies Released in 2016
+
 4)Find the Most Common Rating for Movies and TV Shows
+
 5)Find the Top 5 Countries with the Most Content on Netflix
+
 6)Identify the Top 5 Longest Movies
+
 7)Find Content Added in the Last 5 Years
+
 8)List All TV Shows with More Than or Equail 5 Seasons
+
 9)Count the Number of Content Items in Each Rating
+
 10)Find each year and the total numbers of content release in 'United States' on netflix.
+
 11)List All Movies that are Children & Family Movies
+
 12)Find All Content Without a Director
+
 13)Find How Many Movies Actor 'Will Smith' Appeared in the Last 10 Years
+
 14)Find the top 10 Director Make movies in 'India'
