@@ -4,6 +4,7 @@ An analytical project for the Netflix Shows dataset, aiming to extract insights 
 This project demonstrates the process of designing a database schema, cleaning and importing data, and performing complex queries to answer key business questions.
 
 🎯 Objectives
+
 1.Database Design: Create a logical and efficient relational schema for the Netflix dataset.
 
 2.Data Transformation: Clean and process the raw CSV data to ensure it's suitable for SQL analysis.
@@ -17,7 +18,8 @@ This project demonstrates the process of designing a database schema, cleaning a
 
 Language: MS SQL Server
 
-Database:[](https://www.kaggle.com/datasets/shivamb/netflix-shows)
+Database:
+[](https://www.kaggle.com/datasets/shivamb/netflix-shows)
 
 🧠 Analytical Questions Explored
 
