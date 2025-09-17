@@ -18,8 +18,6 @@ This project demonstrates the process of designing a database schema, cleaning a
 
 Language: MS SQL Server
 
-Database:
-[](https://www.kaggle.com/datasets/shivamb/netflix-shows)
 
 🧠 Analytical Questions Explored
 
