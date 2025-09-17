@@ -5,12 +5,18 @@ This project demonstrates the process of designing a database schema, cleaning a
 
 🎯 Objectives
 1.Database Design: Create a logical and efficient relational schema for the Netflix dataset.
+
 2.Data Transformation: Clean and process the raw CSV data to ensure it's suitable for SQL analysis.
+
 3.SQL Querying: Write efficient SQL queries to explore the data and uncover hidden patterns.
+
 4.Business Insights: Translate query results into actionable insights for a business context.
 
+
 🛠️ Tech Stack & Tools
+
 Language: MS SQL Server
+
 Database:[](https://www.kaggle.com/datasets/shivamb/netflix-shows)
 
 🧠 Analytical Questions Explored
